@@ -5,9 +5,9 @@ Welcome to the official repository for **Vibe Events Pune**, an event management
 
 ## 🌐 Live Website
 
-Visit the site here: [https://yourusername.github.io/vibe-events](https://yourusername.github.io/vibe-events)
+Visit the site here: [https://karan7177.github.io/vibe-events](https://yourusername.github.io/vibe-events)
 
-> Replace `yourusername` with your actual GitHub username.
+
 
 ---
 
