@@ -46,13 +46,6 @@ Submissions go directly to the business email: `karanbangude7177@gmail.com`.
 
 ---
 
-## 🚀 How to Deploy on GitHub Pages
-
-1. Upload the `index.html` and `booking.html` files to the root of your repository.
-2. Go to **Settings** > **Pages**.
-3. Set **Branch** to `main` and **folder** to `/root`.
-4. Click **Save** and GitHub will host your website.
-
 ---
 
 ## 📞 Contact
